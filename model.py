@@ -1,5 +1,5 @@
 phone_book = []
-path = 'phone.txt'
+path = 'homework10/phone.txt'
 
 
 def open_file():
